@@ -1,0 +1,6 @@
+Phoenyx V3.0
+____________
+
+*First Proper version of the game.
+*All previous issues fixed.
+*Proper Player Movement and Fireball Spawn implimented.

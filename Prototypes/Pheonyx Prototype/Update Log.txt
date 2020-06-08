@@ -1,0 +1,5 @@
+Phoenyx Prototype
+_________________
+
+*This is the initial Prototype of the retro game. This version failed due to technical issues.
+*IDE used is CodeBlocks 15

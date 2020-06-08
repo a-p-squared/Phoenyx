@@ -1,0 +1,16 @@
+Algorithm
+_________
+
+1. Load Screen
+2. Load Phoenix
+3. Load Fireball
+4. Event::Closed
+5. Draw Screen -> Phoenix
+6. Player Movement ()
+7. Spawn Fireball on Event
+7.a. Create SpawnPoint
+7.b. Update SpawnPoint
+7.c. Adjust SpawnPoint
+7.d. Draw FireBall
+8. Fireball Movement
+9. Spawn Enemy on Event
